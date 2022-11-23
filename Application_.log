@@ -1,0 +1,40 @@
+2022-11-19 10:44:24 DEBUG ResolutionCache:186 - Resolution chrome=107 in cache (valid until 11:32:41 19/11/2022 IST)
+2022-11-19 10:44:24 DEBUG ResolutionCache:186 - Resolution chrome107=107.0.5304.62 in cache (valid until 10:32:41 20/11/2022 IST)
+2022-11-19 10:44:24 INFO  WebDriverManager:1122 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-19 10:44:24 TRACE CacheHandler:83 - Checking if chromedriver exists in cache
+2022-11-19 10:44:24 TRACE CacheHandler:68 - Filter cache by chromedriver -- input list [C:\Users\91762\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe, C:\Users\91762\.cache\selenium\chromedriver\win32\106.0.5249.61\CHROMEDRIVER.EXE.OSF, C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe, C:\Users\91762\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe, C:\Users\91762\.cache\selenium\operadriver\win64\105.0.5195.102\OPERADRIVER.EXE, C:\Users\91762\.cache\selenium\resolution.properties] -- output list [C:\Users\91762\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe, C:\Users\91762\.cache\selenium\chromedriver\win32\106.0.5249.61\CHROMEDRIVER.EXE.OSF, C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe] 
+2022-11-19 10:44:24 TRACE CacheHandler:68 - Filter cache by 107.0.5304.62 -- input list [C:\Users\91762\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe, C:\Users\91762\.cache\selenium\chromedriver\win32\106.0.5249.61\CHROMEDRIVER.EXE.OSF, C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe] -- output list [C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe] 
+2022-11-19 10:44:24 TRACE CacheHandler:68 - Filter cache by WIN -- input list [C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe] -- output list [C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe] 
+2022-11-19 10:44:24 DEBUG WebDriverManager:1078 - Driver chromedriver 107.0.5304.62 found in cache
+2022-11-19 10:44:24 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-19 10:44:24 DEBUG ResolutionCache:186 - Resolution chrome=107 in cache (valid until 11:32:41 19/11/2022 IST)
+2022-11-19 10:44:24 DEBUG ResolutionCache:186 - Resolution chrome107=107.0.5304.62 in cache (valid until 10:32:41 20/11/2022 IST)
+2022-11-19 10:44:24 INFO  WebDriverManager:1122 - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+2022-11-19 10:44:24 TRACE CacheHandler:83 - Checking if chromedriver exists in cache
+2022-11-19 10:44:24 TRACE CacheHandler:68 - Filter cache by chromedriver -- input list [C:\Users\91762\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe, C:\Users\91762\.cache\selenium\chromedriver\win32\106.0.5249.61\CHROMEDRIVER.EXE.OSF, C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe, C:\Users\91762\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe, C:\Users\91762\.cache\selenium\operadriver\win64\105.0.5195.102\OPERADRIVER.EXE, C:\Users\91762\.cache\selenium\resolution.properties] -- output list [C:\Users\91762\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe, C:\Users\91762\.cache\selenium\chromedriver\win32\106.0.5249.61\CHROMEDRIVER.EXE.OSF, C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe] 
+2022-11-19 10:44:24 TRACE CacheHandler:68 - Filter cache by 107.0.5304.62 -- input list [C:\Users\91762\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe, C:\Users\91762\.cache\selenium\chromedriver\win32\106.0.5249.61\CHROMEDRIVER.EXE.OSF, C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe] -- output list [C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe] 
+2022-11-19 10:44:24 TRACE CacheHandler:68 - Filter cache by WIN -- input list [C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe] -- output list [C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe] 
+2022-11-19 10:44:24 DEBUG WebDriverManager:1078 - Driver chromedriver 107.0.5304.62 found in cache
+2022-11-19 10:44:24 INFO  WebDriverManager:1177 - Exporting webdriver.chrome.driver as C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-19 10:44:24 DEBUG ResolutionCache:186 - Resolution firefox=106 in cache (valid until 11:35:22 19/11/2022 IST)
+2022-11-19 10:44:24 DEBUG ResolutionCache:186 - Resolution firefox106=0.32.0 in cache (valid until 11:13:47 19/11/2022 IST)
+2022-11-19 10:44:24 INFO  WebDriverManager:1122 - Using geckodriver 0.32.0 (resolved driver for Firefox 106)
+2022-11-19 10:44:24 TRACE CacheHandler:83 - Checking if geckodriver exists in cache
+2022-11-19 10:44:24 TRACE CacheHandler:68 - Filter cache by geckodriver -- input list [C:\Users\91762\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe, C:\Users\91762\.cache\selenium\chromedriver\win32\106.0.5249.61\CHROMEDRIVER.EXE.OSF, C:\Users\91762\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe, C:\Users\91762\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe, C:\Users\91762\.cache\selenium\operadriver\win64\105.0.5195.102\OPERADRIVER.EXE, C:\Users\91762\.cache\selenium\resolution.properties] -- output list [C:\Users\91762\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe] 
+2022-11-19 10:44:24 TRACE CacheHandler:68 - Filter cache by 0.32.0 -- input list [C:\Users\91762\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe] -- output list [C:\Users\91762\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe] 
+2022-11-19 10:44:24 TRACE CacheHandler:68 - Filter cache by WIN -- input list [C:\Users\91762\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe] -- output list [C:\Users\91762\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe] 
+2022-11-19 10:44:24 DEBUG WebDriverManager:1078 - Driver geckodriver 0.32.0 found in cache
+2022-11-19 10:44:24 INFO  WebDriverManager:1177 - Exporting webdriver.gecko.driver as C:\Users\91762\.cache\selenium\geckodriver\win64\0.32.0\geckodriver.exe
+2022-11-19 10:44:38 INFO  Log4jPatternLayout:34 - * Starting browser  *
+2022-11-19 10:44:41 INFO  Log4jPatternLayout:47 - * Start case Market Place  Videos *
+2022-11-19 10:44:48 INFO  Log4jPatternLayout:63 - *End Test Case*
+2022-11-19 10:49:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-19 10:49:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-19 10:49:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-19 10:49:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-19 10:49:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/91762/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-11-19 10:49:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-11-19 10:49:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-11-19 10:49:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-11-19 10:49:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-11-19 10:49:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/91762/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

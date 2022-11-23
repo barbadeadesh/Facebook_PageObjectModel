@@ -1,0 +1,7 @@
+Sleep(3000)
+ControlFocus("Open", "" , "Edit1")
+Sleep(3000)
+ControlSetText("Open", "" , "Edit1","C:\Users\91762\OneDrive\Pictures\ms-dhoni.jpeg")
+Sleep(3000)
+ControlClick("Open", "" , "Button1")
+Sleep(3000)

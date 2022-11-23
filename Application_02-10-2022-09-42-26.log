@@ -1,0 +1,6 @@
+2022-10-02 21:42:26 TRACE Log4jPatternLayout:21 - This is Trace Message.
+2022-10-02 21:42:26 DEBUG Log4jPatternLayout:22 - This is Debug Message.
+2022-10-02 21:42:26 INFO  Log4jPatternLayout:23 - This is Info Message.
+2022-10-02 21:42:26 WARN  Log4jPatternLayout:24 - This is Warn Message.
+2022-10-02 21:42:26 ERROR Log4jPatternLayout:25 - This is Error Message.
+2022-10-02 21:42:26 FATAL Log4jPatternLayout:26 - This is Fatal Message.
